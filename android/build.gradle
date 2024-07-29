@@ -1,3 +1,5 @@
+package android
+
 group 'me.wolszon.app_group_directory'
 version '1.0-SNAPSHOT'
 
@@ -24,7 +26,7 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
 
-    namespace 'com.example.appgroupdirectory'
+    namespace 'me.wolszon.app_group_directory'
     
     defaultConfig {
         minSdkVersion 16
