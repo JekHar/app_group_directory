@@ -1,4 +1,4 @@
-package android
+//package android
 
 group 'me.wolszon.app_group_directory'
 version '1.0-SNAPSHOT'
